@@ -16,7 +16,8 @@
 
 @implementation ViewController
 -(void)viewDidLoad{
-
+    [super viewDidLoad];
+    //后续会更新。。。。敬请期待。
 }
 
 
